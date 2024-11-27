@@ -1,6 +1,6 @@
 Algoritmo
 
-ED: 
+ED: N, numero, numero2, adicao   Inteiros
 
 Inicio
 
@@ -15,4 +15,7 @@ Inicio
 	adicao = numero + numero2
 	FimSe
 	Fim Enquanto
+	
+	Escrever ("A soma dos digitos é:" adicao)
+	
 Fim
